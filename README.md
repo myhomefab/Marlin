@@ -1,3 +1,16 @@
+# Marlin 3D Printer Firmware for JGAurora A5X (stock)
+
+* Motherboard : MKS Gen L v1.0
+* Drivers : five A4988
+* Dual Z (1 driver per Z stepper)
+
+## JGAurora A5X stock except
+
+* TMC2208 stepper drivers
+* BlTouch support
+* Touch-Mi or Palpito support
+
+
 # Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
