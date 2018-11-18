@@ -4,7 +4,7 @@
 * Drivers : five specifics JGAurora A4988 (replaced)
 * Dual Z (1 driver per Z stepper)
 
-## Except this change
+## Except these enhancements
 
 * TMC2208 stepper drivers
 * BlTouch support
