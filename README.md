@@ -9,6 +9,7 @@
 * TMC2208 stepper drivers
 * BlTouch support
 * Touch-Mi or Palpito support
+* Dual Z steppers Auto alignment
 
 
 
